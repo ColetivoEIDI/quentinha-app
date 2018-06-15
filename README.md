@@ -74,4 +74,4 @@ Send us a Pull Request! Here is how:
 5. Submit a pull request
 
 ## License
-<strong>The "Passei?" is licensed under the GNU general public license. See <a href="https://github.com/ColetivoEIDI/quentinha-app/blob/master/LICENSE">License</a> File for more information.</strong>
+<strong>The "quentinha" is licensed under the GNU general public license. See <a href="https://github.com/ColetivoEIDI/quentinha-app/blob/master/LICENSE">License</a> File for more information.</strong>
